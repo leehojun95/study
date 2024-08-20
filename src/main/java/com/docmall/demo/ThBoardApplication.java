@@ -15,7 +15,4 @@ public class ThBoardApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(ThBoardApplication.class, args);
 	}
-	
-
-
 }
